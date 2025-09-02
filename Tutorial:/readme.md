@@ -1,2 +1,2 @@
 # [Meta Human 5.6 Tutorials by Michael Hurdle Production Studio](https://www.youtube.com/playlist?list=PLNORHp4xFL8pmQfG4qVBG2xg6vZXUT2Hh)
-relation: [Autodesk Maya](https://github.com/PhotonIO/Autodesk-Maya)
+relation: [Autodesk Maya](https://github.com/PhotonIO/Autodesk-Maya), [Sketchfab](https://github.com/PhotonIO/Sketchfab)
